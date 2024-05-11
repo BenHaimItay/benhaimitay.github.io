@@ -7,7 +7,7 @@ export const userData = {
   twitter: "https://www.linkedin.com/in/itay-ben-haim1988/",
   stackOverflow: "https://stackoverflow.com/users/5999386/itaybenhaim",
   resume:
-    "https://www.icloud.com/iclouddrive/002zOOVSEC0EUsCpq4n_jSJVA#Itay_Ben-Haim_Resume",
+    "https://drive.google.com/file/d/1I5KW9keOjKsAZXSAF4qiYiZVp8xICqyf/view?usp=sharing",
   skills: [
     "React",
     "NextJS",
